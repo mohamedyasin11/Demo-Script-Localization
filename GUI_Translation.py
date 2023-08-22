@@ -6,6 +6,7 @@ import openai
 import os
 from dotenv import load_dotenv
 from retry import retry  # Import the retry decorator for rate limiting
+from exceptions import PendingDeprecationWarning
 
 # Load environment variables from API_key.env file
 load_dotenv(dotenv_path="API_key.env")
