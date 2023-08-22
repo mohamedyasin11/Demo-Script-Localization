@@ -3,3 +3,4 @@ retry
 docx
 streamlit
 exceptions
+dotenv
