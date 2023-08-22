@@ -1,7 +1,5 @@
 openai
 retry
 docx
-io
 streamlit
 dotenv
-os
